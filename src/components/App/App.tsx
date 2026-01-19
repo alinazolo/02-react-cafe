@@ -5,7 +5,7 @@ import VoteOptions from '../VoteOptions/VoteOptions'
 import VoteStats from '../VoteStats/VoteStats';
 import Notification from '../Notification/Notification';
 
-import type { Votes } from '../../types/vote';
+import type { Votes } from '../../types/votes';
 
 
 import { useState } from "react";
